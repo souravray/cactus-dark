@@ -1,7 +1,7 @@
 nav:
   Home: /
   Résumé: /resume/
-  Hire Me: http://github.com/probberechts
+  Hire Me: /lets-work-together/
 
 customize:
   gravatar:
@@ -26,9 +26,9 @@ customize:
   social_links:
     github: http://github.com/souravray
     product-hunt: https://www.producthunt.com/@souravray
-    twitter: /
-    angellist : /
-    linkedin: /
+    twitter: https://twitter.com/souravray
+    angellist : https://angel.co/souravray
+    linkedin: https://www.linkedin.com/in/souravray/
   post_count: 0
   highlight: kimbie
 
