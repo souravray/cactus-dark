@@ -17,8 +17,8 @@
 <% if (site.data.projects) { %>
 <section id="projects">
   <span class="h1"><a href="<%- url_for(theme.projects_url) %>">Projects</a></span>
-  <% if (config.description) { %>
-    <%- markdown(config.description) %>
+  <% if (config.projectPitch) { %>
+    <%- markdown(config.projectPitch) %>
   <% } %>
   <ul class="project-list">
     <% for(var obj in site.data.projects){ %>
