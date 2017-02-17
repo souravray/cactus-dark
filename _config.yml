@@ -14,15 +14,15 @@ customize:
     gravatar: true
   favicon: 
     # eg. generate with http://realfavicongenerator.net/
-  desktop:
-    url: /images/favicon.ico
-    gravatar: false
-  android:
-    url: /images/android-chrome-192x192.png
-    gravator: false
-  apple:
-    url: /images/apple-touch-icon.png
-    gravator: false
+    desktop:
+      url: /images/favicon.ico
+      gravatar: false
+    android:
+      url: /images/android-chrome-192x192.png
+      gravator: false
+    apple:
+      url: /images/apple-touch-icon.png
+      gravator: false
   social_links:
     github: http://github.com/souravray
     product-hunt: https://www.producthunt.com/@souravray
@@ -38,7 +38,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: UA-55679581-2 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
